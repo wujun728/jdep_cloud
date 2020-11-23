@@ -5,8 +5,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 /**
  *  授权异常
- * @author zmr
- * @author lucas
+ * @author Wujun
+ * @author Wujun
  */
 @ResponseStatus(code = HttpStatus.UNAUTHORIZED, reason = "unauthorized")
 public class UnauthorizedException extends RuntimeException

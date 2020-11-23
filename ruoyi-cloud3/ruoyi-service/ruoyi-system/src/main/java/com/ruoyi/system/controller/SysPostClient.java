@@ -16,7 +16,7 @@ import com.ruoyi.system.service.ISysPostService;
 /**
  * 岗位 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

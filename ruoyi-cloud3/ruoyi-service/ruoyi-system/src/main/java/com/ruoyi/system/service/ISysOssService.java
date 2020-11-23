@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 文件上传 服务层
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-16
  */
 public interface ISysOssService 

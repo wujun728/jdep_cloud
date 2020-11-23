@@ -14,7 +14,7 @@ public class ToolUtil
 {
     /**
      * 获取临时目录
-     * @author zmr
+     * @author Wujun
      */
     public static String getTempPath()
     {
@@ -24,7 +24,7 @@ public class ToolUtil
     /**
      * 获取当前项目工作目录
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public static String getUserDir()
     {
@@ -34,7 +34,7 @@ public class ToolUtil
     /**
      * 获取临时下载目录
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public static String getDownloadPath()
     {

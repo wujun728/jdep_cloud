@@ -22,7 +22,7 @@ import com.ruoyi.system.service.ISysOperLogService;
 /**
  * 操作日志记录 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

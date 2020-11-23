@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 文件处理工具类
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class FileUtils
 {

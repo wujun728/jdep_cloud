@@ -14,7 +14,7 @@ import org.activiti.image.ProcessDiagramGenerator;
  * <p>Description:重写ProcessDiagramGenerator接口中的generateDiagram方法，增加color参数</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月15日 下午6:30:17</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface ICustomProcessDiagramGenerator extends ProcessDiagramGenerator

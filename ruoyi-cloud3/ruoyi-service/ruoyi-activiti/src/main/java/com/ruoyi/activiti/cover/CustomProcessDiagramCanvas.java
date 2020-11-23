@@ -33,7 +33,7 @@ import com.ruoyi.activiti.consts.ActivitiConstant;
  * <p>Description:重写DefaultProcessDiagramCanvas类drawHighLight和drawSequenceflow方法，实现走过的历史节点高亮功能</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月15日 下午6:36:31</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public class CustomProcessDiagramCanvas extends DefaultProcessDiagramCanvas

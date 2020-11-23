@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 流程设计模型部署Mapper接口
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2019-11-26
  */
 public interface ActReModelMapper 

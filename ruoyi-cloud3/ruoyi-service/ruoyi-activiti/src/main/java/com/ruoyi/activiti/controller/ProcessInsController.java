@@ -39,7 +39,7 @@ import lombok.extern.slf4j.Slf4j;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 下午1:27:18</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Slf4j
@@ -168,7 +168,7 @@ public class ProcessInsController extends BaseController
      * @param reason
      * @param delBusiness 是否删除业务
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @PostMapping(value = "remove")
     public R remove(String ids, String reason)
@@ -198,7 +198,7 @@ public class ProcessInsController extends BaseController
      * 
      * @param ids
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @RequestMapping("remove/his")
     public R removeHis(String ids)

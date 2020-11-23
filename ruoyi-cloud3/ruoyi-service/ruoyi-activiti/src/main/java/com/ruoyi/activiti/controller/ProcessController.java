@@ -175,7 +175,7 @@ public class ProcessController
      *
      * @param procInstId 流程实例ID
      * @param response
-     * @author zmr
+     * @author Wujun
      */
     @RequestMapping(value = "highlightImg/{procInstId}")
     public void getHighlightImg(@PathVariable String procInstId, HttpServletResponse response)

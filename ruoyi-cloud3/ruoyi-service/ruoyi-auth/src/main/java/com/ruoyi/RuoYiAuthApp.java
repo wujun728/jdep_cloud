@@ -10,7 +10,7 @@ import com.ruoyi.system.annotation.EnableRyFeignClients;
 /**
  * 启动程序
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 @EnableEurekaClient

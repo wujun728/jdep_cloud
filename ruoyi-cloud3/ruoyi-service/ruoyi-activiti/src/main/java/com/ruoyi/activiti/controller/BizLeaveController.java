@@ -25,7 +25,7 @@ import com.ruoyi.system.feign.RemoteUserService;
 /**
  * 请假 提供者
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2020-01-07
  */
 @RestController
@@ -99,7 +99,7 @@ public class BizLeaveController extends BaseController
      * 
      * @param leave
      * @return
-     * @author zmr
+     * @author Wujun
      */
     private BizBusiness initBusiness(BizLeave leave)
     {

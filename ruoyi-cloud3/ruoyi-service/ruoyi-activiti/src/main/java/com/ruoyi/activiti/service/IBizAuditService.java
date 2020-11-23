@@ -16,7 +16,7 @@ import com.ruoyi.activiti.vo.HiTaskVo;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 下午3:38:40</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface IBizAuditService
@@ -82,7 +82,7 @@ public interface IBizAuditService
      * 
      * @param hiTaskVo
      * @return
-     * @author zmr
+     * @author Wujun
      */
     List<HiTaskVo> getHistoryTaskList(HiTaskVo hiTaskVo);
 }

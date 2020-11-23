@@ -23,7 +23,7 @@ import java.util.List;
  * @ClassName SwaggerConfig
  * @PackageName com.ruoyi.system.config
  * @Description 
- * @Author daiz
+ * @author Wujun
  * @Date 2019/8/16 9:57
  * @Version 1.0
  */

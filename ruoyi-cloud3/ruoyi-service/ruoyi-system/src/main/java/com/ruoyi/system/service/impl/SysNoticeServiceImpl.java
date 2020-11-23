@@ -11,7 +11,7 @@ import com.ruoyi.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2018-06-25
  */
 @Service

@@ -14,7 +14,7 @@ import com.ruoyi.common.core.dao.BaseMapper;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 上午10:20:27</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface ActReProcdefMapper extends BaseMapper<ActReProcdef>

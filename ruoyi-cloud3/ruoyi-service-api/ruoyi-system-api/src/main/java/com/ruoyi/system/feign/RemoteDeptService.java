@@ -11,7 +11,7 @@ import com.ruoyi.system.feign.factory.RemoteDeptFallbackFactory;
 /**
  * 用户 Feign服务层
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @FeignClient(name = ServiceNameConstants.SYSTEM_SERVICE, fallbackFactory = RemoteDeptFallbackFactory.class)

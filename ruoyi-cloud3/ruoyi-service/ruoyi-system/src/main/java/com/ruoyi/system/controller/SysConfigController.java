@@ -16,7 +16,7 @@ import com.ruoyi.system.service.ISysConfigService;
 /**
  * 参数配置 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

@@ -16,7 +16,7 @@ import java.util.List;
  * @ClassName SwaggerProvider
  * @PackageName com.ruoyi.gateway.config
  * @Description 
- * @Author daiz
+ * @author Wujun
  * @Date 2019/8/16 10:04
  * @Version 1.0
  */

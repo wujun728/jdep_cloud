@@ -33,7 +33,7 @@ public class RedisUtils
      * 插入缓存默认时间
      * @param key 键
      * @param value 值
-     * @author zmr
+     * @author Wujun
      */
     public void set(String key, Object value)
     {
@@ -45,7 +45,7 @@ public class RedisUtils
      * @param key 键
      * @param value 值
      * @param expire 过期时间(s)
-     * @author zmr
+     * @author Wujun
      */
     public void set(String key, Object value, long expire)
     {
@@ -57,7 +57,7 @@ public class RedisUtils
      * 返回字符串结果
      * @param key 键
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public String get(String key)
     {
@@ -69,7 +69,7 @@ public class RedisUtils
      * @param key 键
      * @param clazz 类型class
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public <T> T get(String key, Class<T> clazz)
     {
@@ -80,7 +80,7 @@ public class RedisUtils
     /**
      * 删除缓存
      * @param key 键
-     * @author zmr
+     * @author Wujun
      */
     public void delete(String key)
     {

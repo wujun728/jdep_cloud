@@ -34,7 +34,7 @@ import cn.hutool.core.util.ArrayUtil;
 /**
  * 用户 业务层处理
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

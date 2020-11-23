@@ -17,7 +17,7 @@ import com.ruoyi.system.feign.factory.RemoteUserFallbackFactory;
 /**
  * 用户 Feign服务层
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @FeignClient(name = ServiceNameConstants.SYSTEM_SERVICE, fallbackFactory = RemoteUserFallbackFactory.class)
@@ -36,7 +36,7 @@ public interface RemoteUserService
      * 查询拥有当前角色的所有用户
      * @param auditor
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("user/hasRoles")
     public Set<Long> selectUserIdsHasRoles(@RequestParam("roleIds") String roleIds);
@@ -46,7 +46,7 @@ public interface RemoteUserService
      * 
      * @param deptId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("user/inDepts")
     public Set<Long> selectUserIdsInDepts(@RequestParam("deptIds") String deptIds);

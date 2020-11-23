@@ -24,7 +24,7 @@ import tk.mybatis.mapper.entity.Example.Criteria;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2019 2019年12月20日 下午2:13:36</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Service

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 请假Mapper接口
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2020-01-07
  */
 public interface BizLeaveMapper

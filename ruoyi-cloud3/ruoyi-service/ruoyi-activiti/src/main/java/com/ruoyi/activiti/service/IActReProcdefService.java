@@ -15,7 +15,7 @@ import com.ruoyi.activiti.domain.ActReProcdef;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 上午10:21:18</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface IActReProcdefService

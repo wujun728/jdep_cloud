@@ -21,7 +21,7 @@ import com.ruoyi.system.service.ISysDictDataService;
 /**
  * 字典数据 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

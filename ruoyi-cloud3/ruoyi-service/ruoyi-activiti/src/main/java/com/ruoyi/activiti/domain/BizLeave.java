@@ -17,7 +17,7 @@ import tk.mybatis.mapper.annotation.KeySql;
 /**
  * 请假对象 act_leave
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2020-01-07
  */
 @Data

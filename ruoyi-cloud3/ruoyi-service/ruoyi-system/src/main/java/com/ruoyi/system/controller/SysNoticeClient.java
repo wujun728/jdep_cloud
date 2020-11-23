@@ -17,7 +17,7 @@ import com.ruoyi.system.service.ISysNoticeService;
 /**
  * 通知公告 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

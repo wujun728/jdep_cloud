@@ -10,7 +10,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 操作日志记录表 oper_log
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

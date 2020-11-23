@@ -15,7 +15,7 @@ public class RandomUtil
      * 生成随机字符串，包含数字和字母
      * @param length 长度
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public static String randomStr(int length)
     {
@@ -26,7 +26,7 @@ public class RandomUtil
      * 生成随机字符串，只包含数字
      * @param length 长度
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public static String randomInt(int length)
     {

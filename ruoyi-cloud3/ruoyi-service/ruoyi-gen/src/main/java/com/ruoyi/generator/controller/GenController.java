@@ -30,7 +30,7 @@ import com.ruoyi.generator.service.IGenTableService;
 /**
  * 代码生成 操作处理
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @RestController
 public class GenController extends BaseController

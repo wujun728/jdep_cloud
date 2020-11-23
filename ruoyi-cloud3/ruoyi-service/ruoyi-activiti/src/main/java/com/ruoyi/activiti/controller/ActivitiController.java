@@ -44,7 +44,7 @@ public class ActivitiController extends BaseController
      * 
      * @param key
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("start/{key}")
     public R start(@PathVariable("key") String key)

@@ -7,7 +7,7 @@ import com.ruoyi.system.domain.SysUserRole;
 /**
  * 用户表 数据层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface SysUserRoleMapper
 {

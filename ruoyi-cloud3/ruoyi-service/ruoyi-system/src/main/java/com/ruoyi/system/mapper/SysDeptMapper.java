@@ -9,7 +9,7 @@ import com.ruoyi.system.domain.SysDept;
 /**
  * 部门管理 数据层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface SysDeptMapper
 {
@@ -112,7 +112,7 @@ public interface SysDeptMapper
      * 根据角色编号查询所有部门ID
      * @param roleId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<String> selectRoleDeptIds(Long roleId);
 }

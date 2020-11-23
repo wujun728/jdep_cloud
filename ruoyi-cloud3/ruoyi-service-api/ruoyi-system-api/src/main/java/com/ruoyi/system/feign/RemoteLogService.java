@@ -12,7 +12,7 @@ import com.ruoyi.system.feign.factory.RemoteLogFallbackFactory;
 /**
  * 日志Feign服务层
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @FeignClient(name = ServiceNameConstants.SYSTEM_SERVICE, fallbackFactory = RemoteLogFallbackFactory.class)

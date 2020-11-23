@@ -11,7 +11,7 @@ import lombok.Data;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2019 2019年8月29日 下午5:27:02</p>
  * <p>Company: yinrunnet.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Data

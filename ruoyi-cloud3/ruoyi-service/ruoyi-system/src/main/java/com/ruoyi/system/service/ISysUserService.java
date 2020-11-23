@@ -8,7 +8,7 @@ import com.ruoyi.system.domain.SysUser;
 /**
  * 用户 业务层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface ISysUserService
 {
@@ -179,7 +179,7 @@ public interface ISysUserService
      * 查询拥有当前角色的所有用户
      * @param roleId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<Long> selectUserIdsHasRoles(Long[] roleIds);
 
@@ -187,7 +187,7 @@ public interface ISysUserService
      * 查询所有当前部门中的用户
      * @param deptId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<Long> selectUserIdsInDepts(Long[] deptIds);
 }

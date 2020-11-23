@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月3日 下午6:19:47</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Data

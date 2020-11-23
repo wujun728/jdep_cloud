@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 获取IP方法
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class IpUtils
 {

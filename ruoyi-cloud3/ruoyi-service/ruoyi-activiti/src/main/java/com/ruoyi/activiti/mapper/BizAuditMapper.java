@@ -17,7 +17,7 @@ import com.ruoyi.common.core.dao.BaseMapper;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 下午3:38:12</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface BizAuditMapper extends BaseMapper<BizAudit>
@@ -28,7 +28,7 @@ public interface BizAuditMapper extends BaseMapper<BizAudit>
      * logic删除
      * @param ids
      * @return
-     * @author zmr
+     * @author Wujun
      */
     int deleteLogic(String[] ids);
 }

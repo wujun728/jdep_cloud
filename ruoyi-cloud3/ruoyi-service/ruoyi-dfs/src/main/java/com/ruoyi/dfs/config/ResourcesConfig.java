@@ -13,7 +13,7 @@ import com.ruoyi.common.constant.Constants;
  * <p>Description:生产使用为了安全,不建议通过这种方式映射,推荐使用nginx配置</p>
  * <p>Copyright: Copyright (c) 2019 2019年8月30日 上午11:03:21</p>
  * <p>Company: zmrit.com</p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Configuration

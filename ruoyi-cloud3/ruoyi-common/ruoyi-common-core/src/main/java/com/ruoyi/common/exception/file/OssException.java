@@ -3,7 +3,7 @@ package com.ruoyi.common.exception.file;
 /**
  * OSS信息异常类
  * 
- * @author zmr
+ * @author Wujun
  */
 public class OssException extends RuntimeException
 {

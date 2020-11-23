@@ -11,7 +11,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 菜单权限表 sys_menu
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

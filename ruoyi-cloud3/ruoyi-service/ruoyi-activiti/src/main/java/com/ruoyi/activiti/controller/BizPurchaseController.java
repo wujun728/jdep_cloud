@@ -25,7 +25,7 @@ import com.ruoyi.system.feign.RemoteUserService;
 /**
  * 报销 提供者
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2020-01-07
  */
 @RestController
@@ -55,7 +55,7 @@ public class BizPurchaseController extends BaseController
      * 
      * @param businessKey
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("biz/{businessKey}")
     public R biz(@PathVariable("businessKey") String businessKey)
@@ -95,7 +95,7 @@ public class BizPurchaseController extends BaseController
      * biz构造业务信息
      * @param purchase
      * @return
-     * @author zmr
+     * @author Wujun
      */
     private BizBusiness initBusiness(BizPurchase purchase)
     {

@@ -23,7 +23,7 @@ import com.ruoyi.system.service.IDonateService;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2019 2019年12月20日 下午2:32:25</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @RestController

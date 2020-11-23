@@ -16,7 +16,7 @@ import com.ruoyi.activiti.domain.BizBusiness;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 下午3:38:40</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 public interface IBizBusinessService
@@ -66,7 +66,7 @@ public interface IBizBusinessService
      * 
      * @param ids
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public int deleteBizBusinessLogic(String ids);
 
@@ -83,7 +83,7 @@ public interface IBizBusinessService
      * 
      * @param business 业务对象，必须包含id,title,userId,procDefId属性
      * @param variables 启动流程需要的变量
-     * @author zmr
+     * @author Wujun
      */
     void startProcess(BizBusiness business, Map<String, Object> variables);
 
@@ -94,7 +94,7 @@ public interface IBizBusinessService
      * @param result 审批结果
      * @param currentUserId 当前操作用户 可能是发起人或者任务处理人
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public int setAuditor(BizBusiness business, int result, long currentUserId);
 

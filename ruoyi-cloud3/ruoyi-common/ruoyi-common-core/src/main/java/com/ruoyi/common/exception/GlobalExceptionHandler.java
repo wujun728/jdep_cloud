@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
  * 异常处理器
- * @author zmr
- * @author lucas
+ * @author Wujun
+ * @author Wujun
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

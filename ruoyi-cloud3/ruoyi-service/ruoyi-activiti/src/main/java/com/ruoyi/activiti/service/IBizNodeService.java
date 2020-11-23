@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * 节点Service接口
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2020-01-07
  */
 public interface IBizNodeService
@@ -41,7 +41,7 @@ public interface IBizNodeService
     /**
      * 设置节点视图
      * @param node
-     * @author zmr
+     * @author Wujun
      * @return 
      */
     public ProcessNodeVo setAuditors(ProcessNodeVo node);
@@ -51,7 +51,7 @@ public interface IBizNodeService
      * 
      * @param node
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public int updateBizNode(ProcessNodeVo node);
 
@@ -60,7 +60,7 @@ public interface IBizNodeService
      * @param nodeId 流程节点编号
      * @param userId 当前用户编号
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<String> getAuditors(String nodeId,long userId);
 }

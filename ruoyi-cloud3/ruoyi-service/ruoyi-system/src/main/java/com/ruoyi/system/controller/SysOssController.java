@@ -35,7 +35,7 @@ import com.ruoyi.system.service.ISysOssService;
 /**
  * 文件上传 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-16
  */
 @RestController

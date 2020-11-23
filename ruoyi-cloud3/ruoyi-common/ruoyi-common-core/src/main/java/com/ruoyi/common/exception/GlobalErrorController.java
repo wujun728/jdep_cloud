@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author zmr
- * @author lucas
+ * @author Wujun
+ * @author Wujun
  */
 @RestController
 public class GlobalErrorController extends AbstractErrorController

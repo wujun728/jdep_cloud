@@ -6,7 +6,7 @@ import com.ruoyi.system.domain.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface ISysDictDataService
 {

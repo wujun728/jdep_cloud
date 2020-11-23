@@ -20,7 +20,7 @@ import com.ruoyi.system.service.ISysDictTypeService;
 /**
  * 字典类型 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

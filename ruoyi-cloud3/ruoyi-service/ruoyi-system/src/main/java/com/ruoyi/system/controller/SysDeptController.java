@@ -18,7 +18,7 @@ import com.ruoyi.system.service.ISysDeptService;
 /**
  * 部门 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController

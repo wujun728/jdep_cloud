@@ -20,7 +20,7 @@ public @interface RedisCache
     /**
      * 主键
      * @return
-     * @author zmr
+     * @author Wujun
      */
     String fieldKey();
 

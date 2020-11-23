@@ -12,7 +12,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 流程设计模型部署对象 ACT_RE_MODEL
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2019-11-26
  */
 @Data

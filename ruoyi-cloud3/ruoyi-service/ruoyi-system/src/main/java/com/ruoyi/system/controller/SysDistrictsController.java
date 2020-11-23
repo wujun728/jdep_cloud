@@ -22,7 +22,7 @@ import com.ruoyi.system.service.IDistrictsService;
 /**
  * 地区 信息操作处理
  * 
- * @author ruoyi
+ * @author Wujun
  * @date 2018-12-19
  */
 @RestController

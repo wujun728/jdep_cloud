@@ -8,7 +8,7 @@ import com.ruoyi.system.domain.SysUser;
 /**
  * 用户表 数据层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface SysUserMapper
 {
@@ -128,14 +128,14 @@ public interface SysUserMapper
      * 查询拥有当前角色的所有用户编号
      * @param roleIds 角色编号
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<Long> selectUserIdsHasRoles(Long[] roleIds);
     /**
      * 查询拥有当前角色的所有用户编号
      * @param deptIds 部门编号
      * @return
-     * @author zmr
+     * @author Wujun
      */
     public Set<Long> selectUserIdsInDepts(Long[] deptIds);
 }

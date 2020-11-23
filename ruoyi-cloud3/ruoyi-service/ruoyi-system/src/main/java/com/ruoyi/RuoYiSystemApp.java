@@ -12,7 +12,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 /**
  * 启动程序
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableEurekaClient

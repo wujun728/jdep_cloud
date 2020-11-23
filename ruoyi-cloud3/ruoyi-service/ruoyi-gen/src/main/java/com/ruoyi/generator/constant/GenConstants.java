@@ -3,7 +3,7 @@ package com.ruoyi.generator.constant;
 /**
  * 代码生成通用常量
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class GenConstants {
 	/** 单表（增删改查） */

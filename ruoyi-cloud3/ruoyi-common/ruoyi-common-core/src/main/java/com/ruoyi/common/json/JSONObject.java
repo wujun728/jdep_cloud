@@ -14,7 +14,7 @@ import com.ruoyi.common.utils.StringUtils;
 /**
  * 通用消息对象，基于Map实现的可嵌套数据结构。 支持JSON数据结构。
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class JSONObject extends LinkedHashMap<String, Object>
 {
@@ -683,7 +683,7 @@ public class JSONObject extends LinkedHashMap<String, Object>
     /**
      * 最后数组回调。
      * 
-     * @author Mike
+     * @author Wujun
      *
      * @param <T> 回调返回数据类型。
      */

@@ -7,7 +7,7 @@ import com.ruoyi.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public interface ISysConfigService
 {
@@ -70,7 +70,7 @@ public interface ISysConfigService
     /**
      * @param key
      * @param configValue
-     * @author zmr
+     * @author Wujun
      */
     public int updateValueByKey(String key, String configValue);
 }

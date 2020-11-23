@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.io.InputStream;
 
 /**
- * @author Tijs Rademakers
+ * @author Wujun
  */
 @RestController
 @RequestMapping("service")

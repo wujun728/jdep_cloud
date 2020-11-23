@@ -43,7 +43,7 @@ import cn.hutool.core.util.StrUtil;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月7日 下午6:15:46</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @RestController
@@ -69,7 +69,7 @@ public class ActTaskController extends BaseController
      * task待办
      * 
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @RequestMapping(value = "ing")
     public R ing(RuTask ruTask, PageDomain page)
@@ -120,7 +120,7 @@ public class ActTaskController extends BaseController
      * @param ruTask
      * @param page
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @RequestMapping(value = "done")
     public R done(HiTaskVo hiTaskVo)
@@ -136,7 +136,7 @@ public class ActTaskController extends BaseController
      * 
      * @param hiTaskVo
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @RequestMapping(value = "flow")
     public R flow(HiTaskVo hiTaskVo)
@@ -150,7 +150,7 @@ public class ActTaskController extends BaseController
      * 
      * @param bizAudit
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @PostMapping("audit")
     public R audit(@RequestBody BizAudit bizAudit)

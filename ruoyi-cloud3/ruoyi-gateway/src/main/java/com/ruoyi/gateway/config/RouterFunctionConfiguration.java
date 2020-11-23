@@ -28,7 +28,7 @@ import com.ruoyi.gateway.handler.ImgCodeHandler;
 import lombok.AllArgsConstructor;
 
 /**
- * @author lengleng
+ * @author Wujun
  * @date 2019/2/1
  * 路由配置信息
  */

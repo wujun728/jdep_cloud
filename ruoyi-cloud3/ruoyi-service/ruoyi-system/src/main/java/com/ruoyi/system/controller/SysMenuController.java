@@ -24,7 +24,7 @@ import com.ruoyi.system.service.ISysMenuService;
 /**
  * 菜单权限 
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController
@@ -62,7 +62,7 @@ public class SysMenuController extends BaseController
      * 根据角色编号查询菜单编号（用于勾选）
      * @param roleId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("role/{roleId}")
     public List<SysMenu> role(@PathVariable("roleId") Long roleId)

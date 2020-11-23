@@ -28,7 +28,7 @@ import cn.hutool.core.convert.Convert;
 /**
  * 用户 提供者
  * 
- * @author zmr
+ * @author Wujun
  * @date 2019-05-20
  */
 @RestController
@@ -150,7 +150,7 @@ public class SysUserController extends BaseController
      * 修改用户信息
      * @param sysUser
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @HasPermissions("system:user:edit")
     @PostMapping("update/info")
@@ -164,7 +164,7 @@ public class SysUserController extends BaseController
      * 记录登陆信息
      * @param sysUser
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @PostMapping("update/login")
     public R updateLoginRecord(@RequestBody SysUser sysUser)
@@ -186,7 +186,7 @@ public class SysUserController extends BaseController
      * 修改状态
      * @param sysUser
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @HasPermissions("system:user:edit")
     @PostMapping("status")

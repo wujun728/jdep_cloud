@@ -9,7 +9,7 @@ import org.activiti.engine.runtime.ProcessInstance;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月6日 下午1:29:16</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @Data

@@ -15,7 +15,7 @@ import com.ruoyi.system.service.ISysPostService;
 /**
  * 岗位信息 服务层处理
  * 
- * @author ruoyi
+ * @author Wujun
  */
 @Service
 public class SysPostServiceImpl implements ISysPostService

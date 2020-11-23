@@ -12,7 +12,7 @@ import com.ruoyi.generator.constant.GenConstants;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author Wujun
  */
 public class GenTable extends BaseEntity
 {

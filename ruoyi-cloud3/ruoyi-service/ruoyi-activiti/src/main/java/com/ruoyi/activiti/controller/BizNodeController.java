@@ -35,7 +35,7 @@ import com.ruoyi.common.core.domain.R;
  * <p>Description:</p>
  * <p>Copyright: Copyright (c) 2020 2020年1月14日 上午11:36:58</p>
  * <p>Company: zmrit.com </p>
- * @author zmr
+ * @author Wujun
  * @version 1.0
  */
 @RestController
@@ -53,7 +53,7 @@ public class BizNodeController extends BaseController
      * 
      * @param proDefId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("list/{proDefId}")
     public R list(@PathVariable String proDefId)
@@ -99,7 +99,7 @@ public class BizNodeController extends BaseController
      * 
      * @param nodeId
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @GetMapping("get/{nodeId}")
     public R get(@PathVariable String nodeId)
@@ -116,7 +116,7 @@ public class BizNodeController extends BaseController
      * 
      * @param node
      * @return
-     * @author zmr
+     * @author Wujun
      */
     @PostMapping("update")
     public R update(@RequestBody ProcessNodeVo node)

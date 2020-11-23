@@ -13,7 +13,7 @@ import com.ruoyi.common.utils.StringUtils;
 /**
  * 配置处理工具类
  * 
- * @author yml
+ * @author Wujun
  */
 public class YamlUtil
 {
